@@ -114,8 +114,8 @@ Feel free to write me or connect with me on LinkedIn — I'm open to collaborati
 
 **<a href="https://github.com/Paulacorder"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
 
-“Estoy entre aquellos que piensan que la ciencia tiene una gran belleza.”
-– Madame Curie
+"I am among those who think that science has great beauty."
+– Marie Curie
 
   </td>
   </tr>
