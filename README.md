@@ -25,13 +25,13 @@ Hi, I'm Paula Cordero!
 <hr>
 
 <pre>
-💻 Soy desarrolladora con interés en backend, ciberseguridad y ciencia de datos
-📚 Estudio Ingeniería en Sistemas en la Universidad Fidélitas, Costa Rica
-🔭 Me apasionan la astronomía, el análisis de datos y la programación
-🌱 Actualmente aprendiendo sobre inteligencia artificial y ciberseguridad
-🌟 Lenguajes principales: Python, PHP, Java, JavaScript, SQL, HTML/CSS
-🚩 Interesada en prácticas profesionales y nuevas oportunidades laborales
-🤔 ¿Querés saber más? Este es mi CV: <a href="https://drive.google.com/file/d/1FEXc8eiNaSQfQ57lXUosdHvckX6z4XSH/view?usp=drive_link" target="_blank">Mi CV</a>
+💻 I'm a developer with a strong interest in backend development, cybersecurity, and data science
+📚 I'm studying Computer Systems Engineering at Universidad Fidélitas, Costa Rica
+🔭 I'm passionate about astronomy, data analysis, and programming
+🌱 Currently learning about artificial intelligence and cybersecurity
+🌟 Main languages: Python, PHP, Java, JavaScript, SQL, HTML/CSS
+🚩 Open to internships and new job opportunities
+🤔 Want to know more? Here's my CV: <a href="https://drive.google.com/file/d/1FEXc8eiNaSQfQ57lXUosdHvckX6z4XSH/view?usp=drive_link" target="_blank">My Resume</a>
 </pre>
 
 <hr>
