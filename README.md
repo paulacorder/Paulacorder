@@ -102,17 +102,17 @@ Hi, I'm Paula Cordero!
   <tr>
   <td width="50%" valign="top">
 
-🚀 ¿Trabajamos juntas?
+## 🚀 Shall We Work Together?
 
-¿Tenés una idea de proyecto? ¿Querés apoyo en desarrollo backend, ciencia de datos o algo creativo?  
-Podés escribirme o contactarme por LinkedIn. ¡Estoy abierta a colaborar y aprender!
+Do you have a project idea? Need support with backend development, data science, or something creative?  
+Feel free to write me or connect with me on LinkedIn — I'm open to collaborating and learning!
 
   </td>
   <td width="50%" valign="top">
 
 ## It's not perfect, isn't it?
 
-**<a href="https://github.com/Bouaskaoun"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
+**<a href="https://github.com/Paulacorder"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
 
 “Estoy entre aquellos que piensan que la ciencia tiene una gran belleza.”
 – Madame Curie
