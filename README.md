@@ -18,7 +18,7 @@ Hi, I'm Paula Cordero!
 
 <p align="center">
 	<a href="https://github.com/Paulacorder">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Passionate+about+Cybersecurity+and+Data+Science;Astronomy+Lover;Always+learning+new+things&center=true&width=400&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Engineering+Student;Passionate+about+Cybersecurity+and+Data+Science;Astronomy+Lover;Always+learning+new+things&center=true&width=400&height=45">
 	</a>
 </p>
 
@@ -98,11 +98,28 @@ Hi, I'm Paula Cordero!
 
 ---
 
-## 🚀 ¿Trabajamos juntas?
+<table style="border: none">
+  <tr>
+  <td width="50%" valign="top">
+
+🚀 ¿Trabajamos juntas?
 
 ¿Tenés una idea de proyecto? ¿Querés apoyo en desarrollo backend, ciencia de datos o algo creativo?  
 Podés escribirme o contactarme por LinkedIn. ¡Estoy abierta a colaborar y aprender!
 
+  </td>
+  <td width="50%" valign="top">
+
+## It's not perfect, isn't it?
+
+**<a href="https://github.com/Bouaskaoun"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
+
+“Estoy entre aquellos que piensan que la ciencia tiene una gran belleza.”
+– Madame Curie
+
+  </td>
+  </tr>
+</table>
 ---
 
 ⭐ **Last Edited on: 19/07/2025**
