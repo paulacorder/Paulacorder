@@ -31,7 +31,7 @@ Hi, I'm Paula Cordero!
 🌱 Currently learning about artificial intelligence and cybersecurity
 🌟 Main languages: Python, PHP, Java, JavaScript, SQL, HTML/CSS
 🚩 Open to internships and new job opportunities
-🤔 Want to know more? Here's my CV: <a href="https://drive.google.com/file/d/1FEXc8eiNaSQfQ57lXUosdHvckX6z4XSH/view?usp=drive_link" target="_blank">My Resume</a>
+🤔 Want to know more? Here's my CV: <a href="https:[//drive.google.com/file/d/1FEXc8eiNaSQfQ57lXUosdHvckX6z4XSH/view?usp=drive_link](https://drive.google.com/file/d/136gY5v0dCzSW71jX8ynVx3M2gDDTgFJF/view?usp=sharing)" target="_blank">My Resume</a>
 </pre>
 
 <hr>
